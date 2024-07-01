@@ -13,3 +13,10 @@ for index, mark in enumerate(marks):
   if (index == 3):
     print("You are Half way there")
 
+#The start value of the index can be change d using
+
+fruits = ['apple', 'banana', 'mango']
+for index, fruit in enumerate(fruits, start=1):
+  print(index, fruit)
+
+
