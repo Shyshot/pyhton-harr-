@@ -14,9 +14,9 @@ print(sqrt(97589) * pi)
 
 from math import *
 result = sqrt(9)
-print(result)  # Output: 3.0
+print(result)  
 
-print(pi)  # Output: 3.141592653589793
+print(pi)  
 
 """dir(*) returns all the Available methods of the imported Module"""
 
